@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently Informatic Engineering student<br>🗃️ Java, C, SQL<br>📝 Looking forward to learning more languages such as C++, python...<br>💻 Experience with servers, databases, DNS, Discord servers & bots<br>💼 Currently in diverse projects using java and C<br>
+📚 Currently an Informatic Engineering student<br>🗃️ Java, C, SQL<br>📝 Looking forward to learning more languages such as C++, python...<br>💻 Experience with servers, databases, DNS, Discord servers & bots<br>💼 Currently in diverse projects using java and C<br>
 
 
 ## 🌐 Socials:
