@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Currently studying an Informatic Engineering degree<br>🗃️ Java, C, SQL, also some experience with lua and kotlin<br>📝 Looking forward to learn more languages such as C++, python...<br>💻 Experience with servers, databases, DNS, Graphical interfaces and last but not least Discord servers & bots<br>💼 Currently in diverse projects using java and C<br>
+📚 Currently studying an Informatic Engineering degree<br>🗃️ Java, C, SQL, also some experience with lua and kotlin<br>📝 Looking forward to learn more languages such as C++, python...<br>💻 Experience with servers, databases, DNS, Graphical interfaces and last but not least Discord servers & bots<br>💼 Currently in diverse projects using java and C<br>🌐 Fluent in Spanish & English<br>
 
 
 ## 🌐 Socials:
